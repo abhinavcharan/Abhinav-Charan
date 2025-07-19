@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Abhinav Charan
 📍 India | 🎓 Aspiring Software Engineer
 
-📧 **Email:** abhinavcharangoud@gmail.com
+📧 **Email:** abhinavcharangoud8@gmail.com
 
 ---
 
 ## 💡 About Me
 
-I’m a passionate and driven B.Tech student exploring the world of software engineering, artificial intelligence, and modern development workflows. Currently, I’m focusing on full-stack development and DevOps practices, while also building impactful projects across web and AI domains.
+I’m a passionate and driven B.Tech student exploring the world of software engineering, artificial intelligence, and modern development workflows. Currently, I’m focusing on AI&ML practices, while also building impactful projects across web and Data Analysis domains.
 
 I'm actively seeking **internship opportunities** where I can:
 - Sharpen my technical and problem-solving skills
@@ -19,7 +19,7 @@ I'm actively seeking **internship opportunities** where I can:
 
 ## 🧠 Tech Skills
 
-- **Languages:** Java, Python, JavaScript  
+- **Languages:** Java, Python, C, R  
 - **Web Technologies:** HTML, CSS, Streamlit  
 - **DevOps & Tools:** Git, GitHub,  
 - **AI/ML:** Scikit-learn, NLTK, Pandas  
